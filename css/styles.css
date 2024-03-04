@@ -62,10 +62,11 @@ h1 {
 }
 .hero {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-content: stretch;
   align-items: flex-end;
   align-items: center;
+  text-align: center;
   width: 1440px;
   height: 600px;
   top: 72px;
